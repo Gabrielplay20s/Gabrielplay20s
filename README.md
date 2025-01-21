@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Aoi Tosaka
+## Perfil de Aoi Tosaka
 
  <div>
    <a href="https://github.com/Gabrielplay20s">
